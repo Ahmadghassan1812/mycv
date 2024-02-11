@@ -1,0 +1,29 @@
+.mypicture {
+    height: 230px;
+    width: 230px;
+    border-radius: 70%;
+    border: 0.15cm white;
+    
+}
+.aa{
+    display: flex;
+    height: 100vh;
+
+}
+.left{
+    background: #93aead;
+    padding: 0.7%
+    width :47%;
+    height: 57%;
+}
+.right{
+    margin-left: 1%;
+    background-color: white;
+    width: 73%;
+}
+.name{
+    font-size: xx-large;
+
+}
+body{margin: auto;width: 50%;
+height: 150px; }
